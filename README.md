@@ -2,7 +2,7 @@ MultiCraft-JARConf
 =====
 To find quickly multicraft configurations list of server JAR !
 
-----
+-----
 Versions available
 -----
 
@@ -23,3 +23,6 @@ Custom
 -----
 This model is adapted to accept self-upload JAR.
 * [Custom.jar]()
+
+-----
+NB : Files, links or anything else of the textual content are not mine but property of respective editors.
