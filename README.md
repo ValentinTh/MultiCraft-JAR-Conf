@@ -1,6 +1,6 @@
 MultiCraft-JARConf
 =====
-To find quickly multicraft configurations list of server JAR !
+To quickly find multicraft configurations list of server JAR !
 
 -----
 Versions available
