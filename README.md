@@ -11,6 +11,8 @@ Versions available
 * [Vanilla-1.7.2]()
 
 #### Spigot _(JAR edited by [Spigot](https://spigotmc.org))_
+* [Spigot-1.9.4 (latest-SNAPSHOT)](https://github.com/ValentinTh/MultiCraft-JARConf/blob/master/spigot/spigot-1.9.4.jar.conf)
+* [Spigot-1.8.8 (latest-SNAPSHOT)](https://github.com/ValentinTh/MultiCraft-JARConf/blob/master/spigot/spigot-1.8.8.jar.conf)
 * [Spigot-1.7.10 (latest-SNAPSHOT)](https://github.com/ValentinTh/MultiCraft-JARConf/blob/master/spigot/spigot-1.7.10-b1657.jar.conf)
 * [Spigot-1.7.2 (latest-SNAPSHOT)](https://github.com/ValentinTh/MultiCraft-JARConf/blob/master/spigot/spigot-1.7.2-b1339.jar.conf)
 * [Spigot-1.6.4 (latest-SNAPSHOT)](https://github.com/ValentinTh/MultiCraft-JARConf/blob/master/spigot/spigot-1.6.4.jar.conf)
