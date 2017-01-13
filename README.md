@@ -15,6 +15,7 @@ Versions available
 * [Spigot-1.7.2 (latest-SNAPSHOT)](https://github.com/ValentinTh/MultiCraft-JARConf/blob/master/spigot/spigot-1.7.2-b1339.jar.conf)
 * [Spigot-1.6.4 (latest-SNAPSHOT)](https://github.com/ValentinTh/MultiCraft-JARConf/blob/master/spigot/spigot-1.6.4.jar.conf)
 * [Spigot-1.5.2 (latest-SNAPSHOT)](https://github.com/ValentinTh/MultiCraft-JARConf/blob/master/spigot/spigot-1.5.2.jar.conf)
+* [Spigot-1.4.7 (latest-SNAPSHOT)](https://github.com/ValentinTh/MultiCraft-JARConf/blob/master/spigot/spigot-1.4.7.jar.conf)
 
 #### PaperSpigot _(JAR edited by [Aquifer](https://aquifermc.org))_
 * [PaperSpigot-1.7.10]()
