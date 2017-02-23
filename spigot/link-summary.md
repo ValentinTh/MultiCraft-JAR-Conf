@@ -1,4 +1,5 @@
 === [Spigot] LINK SUMMARY ===
+
 http://raw.githubusercontent.com/ValentinTh/MultiCraft-JARConf/master/spigot/spigot-x-latest.jar.
 http://raw.githubusercontent.com/ValentinTh/MultiCraft-JARConf/master/spigot/spigot-1.11.2.jar.
 http://raw.githubusercontent.com/ValentinTh/MultiCraft-JARConf/master/spigot/spigot-1.10.2.jar
