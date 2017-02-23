@@ -12,3 +12,5 @@ wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JARConf/master/spigo
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JARConf/master/spigot/spigot-1.5.2.jar.conf
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JARConf/master/spigot/spigot-1.4.7.jar.conf
 echo "Well well well, that's the end you get all files ! Great !"
+echo "Goodbye"
+exit
