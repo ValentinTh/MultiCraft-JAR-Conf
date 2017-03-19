@@ -36,8 +36,8 @@ Versions available
 ----
 Custom
 -----
-This model is adapted to accept self-upload JAR.
+These models are adapted to accept self-upload JAR (server or bungee).
 * [Custom.jar](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/custom.jar.conf)
-
+* [Custom-bungee.jar](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/custom-bungee.jar.conf)
 -----
 NB : Files, links or anything else of the textual content are not mine but property of respective editors.
