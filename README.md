@@ -7,8 +7,15 @@ Versions available
 -----
 
 #### Vanilla _(JAR edited by [Mojang](https://mojang.com))_
-* [Vanilla-1.7.10]()
-* [Vanilla-1.7.2]()
+* [Vanilla-1.11.2](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla-1.11.2.jar.conf)
+* [Vanilla-1.10.2](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla-1.10.2.jar.conf)
+* [Vanilla-1.9.4](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla-1.9.4.jar.conf)
+* [Vanilla-1.8.9](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla-1.8.9.jar.conf)
+* [Vanilla-1.7.10](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla-1.7.10.jar.conf)
+* [Vanilla-1.7.2](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla-1.7.2.jar.conf)
+* [Vanilla-1.6.4](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla-1.6.4.jar.conf)
+* [Vanilla-1.5.2](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla-1.5.2.jar.conf)
+* [Vanilla-1.4.7](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla-1.4.7.jar.conf)
 
 #### Spigot _(JAR edited by [Spigot](https://spigotmc.org))_
 * [Spigot-X (latest)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/spigot/spigot-x-latest.jar.conf)
