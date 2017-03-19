@@ -45,5 +45,5 @@ Sh script quick-add
 -----
 * [Spigot.sh](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/spigot/spigot.sh)
 * [Vanilla.sh](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla.sh)
-
+-----
 NB : Files, links or anything else of the textual content are not mine but property of respective editors.
