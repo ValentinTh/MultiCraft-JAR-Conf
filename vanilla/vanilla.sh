@@ -17,6 +17,6 @@ wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vani
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vanilla/vanilla-1.6.4.jar.conf
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vanilla/vanilla-1.5.2.jar.conf
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vanilla/vanilla-1.4.7.jar.conf
-echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mCUSTOM \033[0;32mfiles ! Great ! \033[37m"
+echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mVANILLA \033[0;32mfiles ! Great ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mGoodbye ! \033[0m"
 exit
