@@ -9,7 +9,7 @@ Yellow='\033[0;33m'       # Yellow
 Blue='\033[0;34m'         # Blue
 Purple='\033[0;35m'       # Purple
 Cyan='\033[0;36m'         # Cyan
-White='\033[0;37m'        # White
+White='\033[0;37m'        # Whit
 ########
 echo -e "
   __  __       _ _   _                 __ _                 _   _    ____     ____             __ _       
