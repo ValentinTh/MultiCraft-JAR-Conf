@@ -22,5 +22,5 @@ echo -e "\033[0;36m ## \033[0;32mLet's start getting all this things baby ! \033
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/custom.jar.conf
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/custom-bungee.jar.conf
 echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mCUSTOM \033[0;32mfiles ! Great ! \033[37m"
-echo -e "\033[0;36m ## \093[5;32mGoodbye ! \033[0m"
+echo -e "\033[0;36m ## \033[5;32mGoodbye ! \033[0m"
 exit
