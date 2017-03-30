@@ -1,4 +1,4 @@
-Color_Off='\033[0m'       # Text Reset
+Reset='\033[0m'       # Text Reset
 Black='\033[0;30m'        # Black
 Red='\033[0;31m'          # Red
 Green='\033[0;32m'        # Green
