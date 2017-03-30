@@ -18,6 +18,6 @@ wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spig
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.6.4.jar.conf
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.5.2.jar.conf
 wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.4.7.jar.conf
-echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mXXXXXXX \033[0;32mfiles ! Great ! \033[37m"
+echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mSPIGOT \033[0;32mfiles ! Great ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mGoodbye ! \033[0m"
 exit
