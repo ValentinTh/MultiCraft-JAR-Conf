@@ -40,7 +40,7 @@ These models are adapted to accept self-upload JAR (server or bungee).
 * [Custom.jar](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/custom/custom.jar.conf)
 * [Custom-bungee.jar](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/custom/custom-bungee.jar.conf)
 -----
-Sh script quick-add
+Sh script quick-add profiles
 -----
 * [Spigot.sh](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/spigot/spigot.sh)
 * [Vanilla.sh](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla.sh)
