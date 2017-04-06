@@ -192,7 +192,7 @@ return array (
   'Ready for installation' => 'Prêt pour l\'installation',
   'Reduces HTTP requests but disables console/chat/status autorefresh' => 'Réduit les requêtes HTTP mais désactive l\'auto-rafraichissement de la console, le chat et les statut',
   'Regular expression matching forbidden subdomains' => 'Expression régulière concernant les sous-domaines interdits',
-  'Reload Daemon Config File' => 'Recharger le fichier de configuration daemon',
+  'Reload Daemon Config File' => 'Recharger la configuration daemon',
   'Remove' => 'Supprimer',
   'Remove Files' => 'Supprimer les fichiers',
   'Requires the PDO SQLite extension' => 'Nécessite l\'extension PDO SQLite',
