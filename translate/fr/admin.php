@@ -54,7 +54,7 @@ return array (
   'Auto-save JAR change' => 'Sauvegarder automatique des changements de JAR',
   'Automatically accept' => 'Acceptation automatique',
   'Automatically save server form on JAR file change' => 'Sauvegarder automatiquement le formulaire de changement de fichier JAR',
-  'Autosave Interval (0 to disable)' => 'Interval de sauvegarder automatique (0 pour désactiver)',
+  'Autosave Interval (0 to disable)' => 'Interval de sauvegarde automatique (0 pour désactiver)',
   'Average players per server' => 'Moyenne de joueurs par serveur',
   'Average servers per daemon' => 'Moyenne de joueur par daemon',
   'Back' => 'Précédent',
