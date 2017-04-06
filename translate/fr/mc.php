@@ -595,7 +595,7 @@ Pressing cancel will only change the daemon ID setting without moving any files.
   'The operation timed out, please check the console for more information.' => 'L\'opération à expirée, vérifiez la console pour plus d\'informations.',
   'The plugin archive is being unpacked, please see the server log.' => 'L\'archive plugin à été décompressée, regardez les logs serveur.',
   'The requested page does not exist.' => 'La page demandée n\'existe pas.',
-  'The server ID, use 0 for "Global"' => 'l\'ID serveur, utilisez 0 pour "Global"',
+  'The server ID, use 0 for "Global"' => 'L\'ID serveur, utilisez 0 pour "Global"',
   'The server is offline.' => 'Le serveur est hors-ligne.',
   'The server is online!' => 'Le serveur est en ligne !',
   'The server is still running, please stop the server first.' => 'Le serveur fonctionne toujours, merci de l\'arrêter d\'abord.',
