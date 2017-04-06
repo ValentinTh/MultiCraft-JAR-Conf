@@ -64,7 +64,7 @@ return array (
   'Are you sure you want to delete this task?' => 'Etes-vous sur de vouloir supprimer cette tâche ?',
   'Are you sure you want to delete this user?' => 'Etes-vous sur de vouloir supprimer cet utilisateur ?',
   'Arguments' => 'Arguments',
-  'Assign to user' => 'Définir à l utilisateur',
+  'Assign to user' => 'Définir à l\'utilisateur',
   'Assigned Permissions' => 'Définir les permissions',
   'Attribute not found, database up to date?' => 'Valeur introuvable, base de donnée à jour ?',
   'Authentication failed' => 'Erreur d\'authentification',
