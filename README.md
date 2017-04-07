@@ -46,4 +46,10 @@ Sh script quick-add profiles
 * [Vanilla.sh](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/vanilla/vanilla.sh)
 * [Custom.sh](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/custom/custom.sh)
 -----
+🇫🇷 French translation script
+-----
+Run this bash script in the "~/protected/messages/" directory of your php-front-panel !
+
+* [Install-Fr.sh](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/translate/install-fr.sh)
+-----
 NB : Files, links or anything else of the textual content are not mine but property of respective editors.
