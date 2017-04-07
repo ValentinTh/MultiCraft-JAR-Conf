@@ -9,8 +9,8 @@ echo -e "
                                                                                                     |___/ "
 echo -e "\033[0;36m ## \033[0;32mQue la langue de Molière soit ! \033[37m"
 mkdir fr
-wget -P /fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/fr/admin.php
-wget -P /fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/fr/mc.php
+wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/fr/admin.php
+wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/fr/mc.php
 wget -P /fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/fr/name.php
 echo -e "\033[0;36m ## \033[0;32mVous voilà en \033[0;33mFrançais \033[0;32mmaintenant ! BRAVO ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mAurevoir ! \033[0m"
