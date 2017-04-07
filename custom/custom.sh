@@ -8,8 +8,9 @@ echo -e "
  |_|  |_|\__,_|_|\__|_|\___|_|  \__,_|_|  \__|          \___/_/   \_\_| \_\  \____\___/|_| |_|_| |_|\__, |
                                                                                                     |___/ "
 echo -e "\033[0;36m ## \033[0;32mLet's start getting all this things baby ! \033[37m"
-wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/custom.jar.conf
-wget http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/custom-bungee.jar.conf
+wget -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/custom.jar.conf
+wget -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/custom-bungee.jar.conf
 echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mCUSTOM \033[0;32mfiles ! Great ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mGoodbye ! \033[0m"
+rm -r custom.sh
 exit
