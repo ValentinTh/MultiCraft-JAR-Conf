@@ -53,4 +53,4 @@ Run this bash script in the "~/protected/messages/" directory of your php-front-
 * [Install-Fr.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/install-fr.sh)
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
-© 2017 - Valentin T.
+© 2017
