@@ -8,7 +8,7 @@ Versions available
 
 | Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot |
 | :--------|:----------:|:---------:|:--------------:|
-| Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[Aquifer](https://aquifermc.org)|
+| Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[Aquifer](https://aquifermc.org)| 
 | `Last`|❌|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-x-latest.jar.conf)|❌|
 |`1.11.2`|[Official JAR](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vanilla/vanilla-1.11.2.jar.conf)|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.11.2.jar.conf)|❌|
 |`1.10.2`|[Official JAR](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vanilla/vanilla-1.10.2.jar.conf)|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.10.2.jar.conf)|❌|
@@ -36,8 +36,13 @@ Run theses bash scripts in the "~/multicraft" directory of your host server !
 -----
 🇫🇷 French translation script
 -----
-Run this bash script in the "~/protected/messages/" directory of your php-front-panel !
+Run this bash script in the "~/protected/messages/" directory of your php-front-panel ! (It will create /fr/ & get the files)
 * [Install-Fr.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/install-fr.sh)
+-----
+⚠️⚠️⚠️ You find a bug ?
+-----
+Don't be afraid to open an issue !
+
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
 © 2017
