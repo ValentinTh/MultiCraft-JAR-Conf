@@ -42,6 +42,7 @@ Run this bash script in the "~/protected/messages/" directory of your php-front-
 ⚠️⚠️⚠️ You find a bug ?
 -----
 Don't be afraid to open an issue !
+Or send a patch proposal :D
 
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
