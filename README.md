@@ -1,6 +1,7 @@
 MultiCraft-JAR Conf
 =====
 To quickly find multicraft configurations list of server JAR !
+Note that profils aren't forced to use define server settings.
 
 -----
 Versions available
