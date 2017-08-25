@@ -37,5 +37,5 @@ exit 0
 </code></pre> 
 
 * chmod a+x /etc/init.d/multicraft 
-* update-rc.d install multicraft defaults 
+* update-rc.d multicraft defaults 
 * service multicraft {start|stop|restart}
