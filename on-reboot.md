@@ -5,13 +5,13 @@
 <pre><code>#!/bin/sh
 
 ### BEGIN INIT INFO
-# Provides:          Multicraft daemon
+# Provides:          Multicraft daemon on boot
 # Required-Start:    $remote_fs $syslog
 # Required-Stop:     $remote_fs $syslog
 # Default-Start:     2 3 4 5
 # Default-Stop:      0 1 6
-# Short-Description: Controls the Multicraft daemon.
-# Description:       It's all kewl.
+# Short-Description: Boot Multicraft daemon.
+# Description:       Cron task.
 ### END INIT INFO
 MULTICRAFT="/home/mc/multicraft"
 
