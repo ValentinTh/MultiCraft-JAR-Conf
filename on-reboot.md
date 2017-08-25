@@ -1,9 +1,8 @@
-crontab -e -u minecraft
-@reboot bash /etc/init.d/multicraft start
+* crontab -e -u minecraft
+* @reboot bash /etc/init.d/multicraft start
+* nano /etc/init.d/multicraft
 
-nano /etc/init.d/multicraft
-<pre><code>
-#!/bin/sh
+<pre><code>#!/bin/sh
 
 ### BEGIN INIT INFO
 # Provides:          Multicraft daemon
@@ -37,6 +36,6 @@ esac
 exit 0
 </code></pre> 
 
-chmod a+x /etc/init.d/multicraft 
-update-rc.d install multicraft defaults 
-service multicraft {start|stop|restart}
+* chmod a+x /etc/init.d/multicraft 
+* update-rc.d install multicraft defaults 
+* service multicraft {start|stop|restart}
