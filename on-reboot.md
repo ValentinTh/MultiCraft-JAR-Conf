@@ -13,7 +13,7 @@
 # Short-Description: Boot Multicraft daemon.
 # Description:       Cron task.
 ### END INIT INFO
-MULTICRAFT="/home/mc/multicraft"
+MULTICRAFT="/home/minecraft/multicraft"
 
 case "$1" in
     start)
