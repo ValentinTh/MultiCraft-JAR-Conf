@@ -9,6 +9,7 @@ echo -e "
                                                                                                     |___/ "
 echo -e "\033[0;36m ## \033[0;32mLet's start getting all this things baby ! \033[37m"
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-x-latest.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.12.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.12.1.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.11.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.10.2.jar.conf
