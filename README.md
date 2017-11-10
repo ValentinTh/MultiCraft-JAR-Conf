@@ -10,6 +10,7 @@ Versions available
 | :--------|:----------:|:---------:|:--------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[Aquifer](https://aquifermc.org)| 
 | `Last`|❌|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-x-latest.jar.conf)|❌|
+|`1.12.2`|[Official JAR](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vanilla/vanilla-1.12.2.jar.conf)|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.12.2.jar.conf)|❌|
 |`1.12.1`|[Official JAR](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vanilla/vanilla-1.12.1.jar.conf)|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.12.1.jar.conf)|❌|
 |`1.11.2`|[Official JAR](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vanilla/vanilla-1.11.2.jar.conf)|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.11.2.jar.conf)|❌|
 |`1.10.2`|[Official JAR](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/vanilla/vanilla-1.10.2.jar.conf)|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.10.2.jar.conf)|❌|
