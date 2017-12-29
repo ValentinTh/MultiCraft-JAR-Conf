@@ -28,6 +28,8 @@ Versions available
 These models are adapted to accept self-upload JAR (server or bungee).
 * [My-Jar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-jar.jar.conf)
 * [My-Bungee.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf)
+Special profile for exigeant modded servers :
+* [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf)
 -----
 🕓 Quick add & clean profiles script
 -----
