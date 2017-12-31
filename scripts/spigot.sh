@@ -22,9 +22,9 @@ wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf
 chown minecraft:minecraft ./jar/spigot-1.9.4.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.8.8.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.8.8.jar.conf
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.7.10-b1657.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.7.10.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.7.10-b1657.jar.conf
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.7.2-b1339.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.7.2.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.7.2-b1339.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/spigot/spigot-1.6.4.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.6.4.jar.conf
