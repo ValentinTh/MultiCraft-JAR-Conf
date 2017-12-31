@@ -32,7 +32,7 @@ These models are adapted to accept self-upload JAR (server or bungee).
 Special profile for demanding modded servers :
 * [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf)
 -----
-🕓 Quick add & clean profiles script
+🕓 Quick add & clean profiles scripts
 -----
 Run theses bash scripts in the "~/multicraft" directory of your host server !
 * [Clean.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/clean.sh)
