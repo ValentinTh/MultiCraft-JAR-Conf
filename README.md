@@ -53,4 +53,4 @@ Or send a patch proposal :D
 
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
-© 2017
+© 2017 - 2018
