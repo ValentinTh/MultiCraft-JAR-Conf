@@ -1,0 +1,13 @@
+[Unit]
+Description=Script to start Multicraft  
+After=syslog.target network.target
+ 
+[Service]
+Type=forking
+PIDFile=/home/minecraft/multicraft/multicraft.pid
+ExecStart=/home/minecraft/multicraft/bin/multicraft -v start
+ExecReload=/home/minecraft/multicraft/bin/multicraft -v restart
+ExecStop=/home/minecraft/multicraft/bin/multicraft -v stop
+
+[Install]
+WantedBy=multi-user.target
