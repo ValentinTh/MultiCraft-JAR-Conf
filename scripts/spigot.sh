@@ -23,15 +23,15 @@ chown minecraft:minecraft ./jar/spigot-1.9.4.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.8.8.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.8.8.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.7.10.jar.conf
-chown minecraft:minecraft ./jar/spigot-1.7.10-b1657.jar.conf
+chown minecraft:minecraft ./jar/spigot-1.7.10.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.7.2.jar.conf
-chown minecraft:minecraft ./jar/spigot-1.7.2-b1339.jar.conf
+chown minecraft:minecraft ./jar/spigot-1.7.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.6.4.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.6.4.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.5.2.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.5.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.4.7.jar.conf
-chown minecraft:minecraft ./jar/vanilla-1.4.7.jar.conf
+chown minecraft:minecraft ./jar/spigot-1.4.7.jar.conf
 echo -e "\033[0;36m ## \033[0;35mPermissions accorded my general ! \033[0m"
 echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mSPIGOT \033[0;32mfiles ! Great ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mGoodbye ! \033[0m"
