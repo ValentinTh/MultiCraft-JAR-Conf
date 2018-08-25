@@ -1,7 +1,8 @@
 MultiCraft-JAR Conf
 =====
 To quickly find multicraft configurations list of server JAR !
->> [Wiki install](https://github.com/ValentinTh/MultiCraft-JAR-Conf/wiki)
+
+->> [Wiki install help](https://github.com/ValentinTh/MultiCraft-JAR-Conf/wiki)
 
 -----
 Versions available
