@@ -12,6 +12,7 @@ Versions available
 | :--------|:----------:|:---------:|:--------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[Aquifer](https://aquifermc.org)| 
 | `Last`|❌|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-x-latest.jar.conf)|❌|
+|`1.13.2`|[Official JAR](http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.13.2.jar.conf)|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.13.2.jar.conf)|❌|
 |`1.13.1`|[Official JAR](http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.13.1.jar.conf)|❌|❌|
 |`1.13`|[Official JAR](http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.13.jar.conf)|❌|❌|
 |`1.12.2`|[Official JAR](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.12.2.jar.conf)|[Mirror](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.12.2.jar.conf)|[Maven](http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/paperspigot/paperspigot-1.12.2.jar.conf)|
