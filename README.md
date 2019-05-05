@@ -61,9 +61,9 @@ Add Files
  💬 Translation script
 -----
 Run this bash script in the "~/protected/messages/" directory of your php-front-panel ! (It will create /fr/ & get the files)
-🇫🇷 [Install-Fr.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/install-fr.sh)
+🇫🇷 [Install-Fr.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-fr.sh)
 
-🇩🇪 [Install-De.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/install-de.sh)
+🇩🇪 [Install-De.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-de.sh)
 
 -----
 ⚠️⚠️⚠️ You find a bug ?
