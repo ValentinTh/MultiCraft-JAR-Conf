@@ -14,5 +14,5 @@ wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/ma
 wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/de/name.php
 echo -e "\033[0;36m ## \033[0;32mDu bist mit \033[0;33mDeutsch \033[0;32mjetzt ! BRAVO ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mAufwiedersehen ! \033[0m"
-rm -r Install-fr.sh
+rm -r Install-de.sh
 exit
