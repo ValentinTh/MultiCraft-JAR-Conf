@@ -29,6 +29,7 @@ Add Files
 These models are adapted to accept self-upload JAR (server or bungee).
 * [My-Jar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-jar.jar.conf)
 * [My-Bungee.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf)     
+
 Special profile for demanding modded servers :
 - [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf)
 -----
@@ -42,15 +43,17 @@ Run theses bash scripts in the "~/multicraft" directory of your host server !
 -----
  💬 Translation script
 -----
-Run this bash script in the "~/protected/messages/" directory of your php-front-panel ! (It will create a language folder & get the files)  
+Run this bash script in the "~/protected/messages/" directory of your php-front-panel ! (It will create a language folder & get the files)
+
 🇫🇷 [Install-Fr.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-fr.sh)  
 🇩🇪 [Install-De.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-de.sh)   
 
 -----
 ⚠️⚠️⚠️ You find a bug ?
 -----
-Don't be afraid to open an issue !
+Don't be afraid to open an issue !    
 Or send a patch proposal :D    
+
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
-© 2017 - 2019
+© 2017 - 2020
