@@ -9,9 +9,9 @@ echo -e "
                                                                                                     |___/ "
 echo -e "\033[0;36m ## \033[0;32mIntegramos la traducción al español? \033[37m"
 mkdir es
-wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/es/admin.php
-wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/es/mc.php
-wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/es/name.php
+wget -P ./es https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/es/admin.php
+wget -P ./es https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/es/mc.php
+wget -P ./es https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/es/name.php
 echo -e "\033[0;36m ## \033[0;32mY aqui \033[0;33men \033[0;32mespañol! BRAVO ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mAdios ! \033[0m"
 rm -r Install-es.sh
