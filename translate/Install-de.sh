@@ -9,9 +9,9 @@ echo -e "
                                                                                                     |___/ "
 echo -e "\033[0;36m ## \033[0;32mUnd German wird ! \033[37m"
 mkdir de
-wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/de/admin.php
-wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/de/mc.php
-wget -P ./fr https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/de/name.php
+wget -P ./de https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/de/admin.php
+wget -P ./de https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/de/mc.php
+wget -P ./de https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/de/name.php
 echo -e "\033[0;36m ## \033[0;32mDu bist mit \033[0;33mDeutsch \033[0;32mjetzt ! BRAVO ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mAufwiedersehen ! \033[0m"
 rm -r Install-de.sh
