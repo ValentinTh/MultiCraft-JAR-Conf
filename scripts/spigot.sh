@@ -8,8 +8,6 @@ echo -e "
  |_|  |_|\__,_|_|\__|_|\___|_|  \__,_|_|  \__|          \___/_/   \_\_| \_\  \____\___/|_| |_|_| |_|\__, |
                                                                                                     |___/ "
 echo -e "\033[0;36m ## \033[0;32mLet's start getting all these things baby ! \033[37m"
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-x-latest.jar.conf
-chown minecraft:minecraft ./jar/spigot-x-latest.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.13.2.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.13.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.12.2.jar.conf
