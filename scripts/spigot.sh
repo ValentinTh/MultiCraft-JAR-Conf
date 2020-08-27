@@ -52,6 +52,8 @@ wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf
 chown minecraft:minecraft ./jar/spigot-1.5.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.4.7.jar.conf
 chown minecraft:minecraft ./jar/spigot-1.4.7.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/spigot/spigot-1.4.6.jar.conf
+chown minecraft:minecraft ./jar/spigot-1.4.6.jar.conf
 echo -e "\033[0;36m ## \033[0;35mPermissions accorded my general ! \033[0m"
 echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mSPIGOT \033[0;32mfiles ! Great ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mGoodbye ! \033[0m"
