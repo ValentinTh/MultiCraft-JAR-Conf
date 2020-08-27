@@ -11,7 +11,7 @@ Versions available
 | Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot |
 | :--------|:----------:|:---------:|:--------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[PaperMC](https://papermc.io)| 
-| `Last`| 1.16.1 | 1.15.2 | 1.15.2 |
+| `Last`| 1.16.2 | 1.16.2 | 1.15.2 |
 | `First`| 1.4.7 | 1.4.7 | 1.12.2 |
 
 ----
