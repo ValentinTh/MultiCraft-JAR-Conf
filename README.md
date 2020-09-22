@@ -31,7 +31,7 @@ These models are adapted to accept self-upload JAR (server or bungee).
 * [My-Bungee.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf)     
 
 Special profile for demanding modded servers :
-- [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf) ⚠️ Made for Java 8 OPENJDK Oracle Only
+- [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf) ⚠️ Made for Java 8 adoptopenjdk-8-hotspot Only
 -----
 🕓 Quick add & clean profiles scripts
 -----
