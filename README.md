@@ -11,8 +11,17 @@ Versions available
 | Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot |
 | :--------|:----------:|:---------:|:--------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[PaperMC](https://papermc.io)| 
-| `Last`| 1.16.3 | 1.16.2 | 1.16.3 |
+| `Last`| 1.16.5 | 1.16.2 | 1.16.5 |
 | `First`| 1.4.7 | 1.4.7 | 1.12.2 |
+
+-----
+⚠️ Java Versions on servers
+-----
+
+Minecraft Vanilla since v1.16.2 no longer supports Java 8 or J9 versions.
+
+Paper Spigot announced that Java 11 will be mandatory from Minecraft 1.17+
+
 
 ----
 Add a JAR file manually directly from your panel
@@ -57,4 +66,4 @@ Or send a patch proposal :D
 
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
-© 2017 - 2020
+© 2017 - 2021
