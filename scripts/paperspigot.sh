@@ -27,7 +27,7 @@ chown minecraft:minecraft ./jar/paperspigot-1.12.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/paperspigot/paperspigot-1.8.8.jar.conf
 chown minecraft:minecraft ./jar/paperspigot-1.8.8.jar.conf
 echo -e "\033[0;36m ## \033[0;35mPermissions accorded my general ! \033[0m"
-echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mSPIGOT \033[0;32mfiles ! Great ! \033[37m"
+echo -e "\033[0;36m ## \033[0;32mWell well well, that's the end you get all \033[0;33mPAPER SPIGOT \033[0;32mfiles ! Great ! \033[37m"
 echo -e "\033[0;36m ## \033[5;32mGoodbye ! \033[0m"
 rm -r paperspigot.sh
 exit
