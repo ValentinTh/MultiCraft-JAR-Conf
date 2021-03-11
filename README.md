@@ -18,9 +18,8 @@ Versions available
 ⚠️ Java Versions on servers (2020 Update)
 -----
 
-Minecraft Vanilla since v1.16.2 no longer supports Java J9 versions.
-
-PaperSpigot announced that Java 11 will be mandatory from Minecraft 1.17+ versions.
+Minecraft Vanilla since v1.16.2 no longer supports Java J9 versions.     
+PaperSpigot announced that Java 11 will be mandatory from Minecraft 1.17+ versions.     
 
 In order to simplify management and updates we use : [AdoptOpenJDK](https://adoptopenjdk.net)   
 - ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` : for profiles after v1.16
@@ -55,6 +54,11 @@ Run theses bash scripts in the "~/multicraft" directory of your host server !
 * [Vanilla.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/vanilla.sh) 
 * [Spigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/spigot.sh)
 * [PaperSpigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/paperspigot.sh)
+
+How to :    
+```cd /path/to/multicraft-folder/```  
+```wget URL-of-the-script && sh ScriptName.sh```
+
 -----
  💬 Translation script
 -----
