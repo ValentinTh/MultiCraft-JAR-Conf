@@ -57,7 +57,7 @@ Run theses bash scripts in the "~/multicraft" directory of your host server !
 
 How to :    
 ```cd /path/to/multicraft-folder/```  
-```wget URL-of-the-script && sh ScriptName.sh```
+```wget URL-of-the-script && sh name-of-the-script.sh```
 
 -----
  💬 Translation script
