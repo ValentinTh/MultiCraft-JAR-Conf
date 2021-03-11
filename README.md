@@ -15,16 +15,18 @@ Versions available
 | `First`| 1.4.7 | 1.4.7 | 1.12.2 |
 
 -----
-⚠️ Java Versions on servers
+⚠️ Java Versions on servers (2020 Update)
 -----
 
-Minecraft Vanilla since v1.16.2 no longer supports Java 8 or J9 versions.
+Minecraft Vanilla since v1.16.2 no longer supports Java J9 versions.
 
-Paper Spigot announced that Java 11 will be mandatory from Minecraft 1.17+
+PaperSpigot announced that Java 11 will be mandatory from Minecraft 1.17+ versions.
 
-Every profile of servers now use : /usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java
+In order to simplify management and updates we use : [AdoptOpenJDK](https://adoptopenjdk.net)   
+- ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` : for profiles after v1.16
+- ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` : for profiles before v1.16.1
 
-The old ones : /usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java
+[[Tutorial] How to install Adopt OpenJDK JAVA versions on Linux servers?](https://adoptopenjdk.net/installation.html?variant=openjdk8&jvmVariant=hotspot#linux-pkg)
 
 ----
 Add a JAR file manually directly from your panel
@@ -39,19 +41,20 @@ Add Files
 🃏 Custom
 -----
 These models are adapted to accept self-upload JAR (server or bungee).
-* [My-Jar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-jar.jar.conf)
-* [My-Bungee.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf)     
+* [My-Jar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-jar.jar.conf) ⚠️ Made for Java 11
+* [My-Bungee.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf) ⚠️ Made for Java 11
 
 Special profile for demanding modded servers :
-- [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf) ⚠️ Made for Java 8 adoptopenjdk-8-hotspot Only
+- [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf) ⚠️ Made for Java 8
 -----
 🕓 Quick add & clean profiles scripts
 -----
 Run theses bash scripts in the "~/multicraft" directory of your host server !
 * [Clean.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/clean.sh)
 * [Custom.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/custom.sh)
+* [Vanilla.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/vanilla.sh) 
 * [Spigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/spigot.sh)
-* [Vanilla.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/vanilla.sh)  
+* [PaperSpigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/paperspigot.sh)
 -----
  💬 Translation script
 -----
