@@ -22,6 +22,9 @@ Minecraft Vanilla since v1.16.2 no longer supports Java 8 or J9 versions.
 
 Paper Spigot announced that Java 11 will be mandatory from Minecraft 1.17+
 
+Every profile of servers now use : /usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java
+
+The old ones : /usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java
 
 ----
 Add a JAR file manually directly from your panel
