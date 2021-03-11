@@ -1,5 +1,5 @@
 #!/bin/bash
-# Spigot config get
+# PaperSpigot config get
 echo -e "
   __  __       _ _   _                 __ _                 _   _    ____     ____             __ _       
  |  \/  |_   _| | |_(_) ___ _ __ __ _ / _| |_              | | / \  |  _ \   / ___|___  _ __  / _(_) __ _ 
