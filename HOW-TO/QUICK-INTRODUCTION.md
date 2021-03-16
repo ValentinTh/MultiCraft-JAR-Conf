@@ -12,7 +12,7 @@
 2. Run the JAR scripts
 
 ----
-💻 JAVA Versions 🔗 [AdoptOpenJDK](https://adoptopenjdk.net)
+💻 JAVA Versions used by the profiles 🔗 [AdoptOpenJDK](https://adoptopenjdk.net)
 -----
 
 📋 [[Tutorial] How to install Adopt OpenJDK JAVA versions on Linux servers?](https://adoptopenjdk.net/installation.html?variant=openjdk8&jvmVariant=hotspot#linux-pkg)
