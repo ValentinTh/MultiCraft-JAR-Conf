@@ -25,3 +25,6 @@
 | My-Jar | My-Bungee | Hardmodded | Templated modpack |
 |:------:|:---------:|:----------:|:-----------------:|
 | Java 11 : ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` | Java 11 : ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` | Java 8 :    ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` | Java 8 :    ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` |
+
+
+[BACK HOME](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/README.md)
