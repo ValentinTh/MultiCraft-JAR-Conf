@@ -1,7 +1,9 @@
 MultiCraft-JAR Conf
 =====
-This project has the goal to make some time gains to many of us.
-Quickly find a multicraft configuration in the list of JAR profiles!
+This project has the goal to make some time gains to many of us.     
+Quickly find a multicraft configuration in the list of JAR profiles!     
+
+You will find here, panel translations (🇫🇷🇩🇪🇪🇸), serveur profiles (Vanilla, Spigot, PaperMC, Custom), script setup helpers, etc
 
 Methods to start :
 
@@ -34,10 +36,11 @@ In order to simplify management and updates this project now relies on : [AdoptO
 
 -----
 ⚠️ Java Versions on servers (December-2020 Update)
-----
 
 Minecraft Vanilla since v1.16.2 no longer supports Java J9 versions, HOTSPOT is used instead.     
 PaperSpigot just announced that Java 11 will be mandatory from Minecraft 1.17+ versions.     
+
+
 
 -----
 ⚠️⚠️⚠️ You find a bug? Want to contribute?
