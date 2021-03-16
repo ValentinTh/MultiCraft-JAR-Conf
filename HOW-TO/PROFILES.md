@@ -32,3 +32,5 @@ Run theses bash scripts in the "~/multicraft" directory of your host server !
 How to :    
 ```cd /path/to/multicraft-folder/```  
 ```wget URL-of-the-script && sh name-of-the-script.sh```
+
+[BACK HOME](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/README.md)
