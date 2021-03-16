@@ -5,9 +5,9 @@ Quickly find a multicraft configuration in the list of JAR profiles!
 
 Methods to start :
 
-- [[HOW-TO] First Steps](https://github.com/ValentinTh/MultiCraft-JAR-Conf/master/HOW-TO/QUICK-INTRODUCTION.md)     
-- [[HOW-TO] Panel & languages (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/master/HOW-TO/LANGUAGES.md)    
-- [[HOW-TO] Server profiles (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/master/HOW-TO/PROFILES.md)   
+- [[HOW-TO] First Steps](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/QUICK-INTRODUCTION.md)     
+- [[HOW-TO] Panel & languages (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/LANGUAGES.md)    
+- [[HOW-TO] Server profiles (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/PROFILES.md)   
 
 -----
 🗓 Minecraft versions available
@@ -30,7 +30,7 @@ In order to simplify management and updates this project now relies on : [AdoptO
 - ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` : for profiles Spigot/PaperSpigot before v1.16.1
 - ```/usr/lib/jvm/adoptopenjdk-8-openj9-jre-amd64/bin/java```: for profiles Vanilla before v.1.16.1
 
-=> Clear table of the versions used [HERE](https://github.com/ValentinTh/MultiCraft-JAR-Conf/master/HOW-TO/QUICK-INTRODUCTION.md)
+=> Clear table of the versions used [HERE](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/QUICK-INTRODUCTION.md)
 
 -----
 ⚠️ Java Versions on servers (December-2020 Update)
