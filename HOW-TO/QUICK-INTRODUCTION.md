@@ -16,8 +16,8 @@
 -----
 | Versions | Vanilla | Spigot | PaperSpigot |
 | :--------|:----------:|:---------:|:--------------:|
-| `> v1.16` | Java 11 : ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` | Java 11 :  ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` | Java 11 :  ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` | 
-| `< v1.16.1`| Java 8 J9 :     ```/usr/lib/jvm/adoptopenjdk-8-openj9-jre-amd64/bin/java``` | Java 8 :    ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` | Java 8 :   ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` |
+| `After v1.16` | Java 11 : ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` | Java 11 :  ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` | Java 11 :  ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` | 
+| `Before v1.16.1`| Java 8 J9 :     ```/usr/lib/jvm/adoptopenjdk-8-openj9-jre-amd64/bin/java``` | Java 8 :    ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` | Java 8 :   ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` |
 
 | My-Jar | My-Bungee | Hardmodded | Templated modpack |
 |:------:|:---------:|:----------:|:-----------------:|
