@@ -23,7 +23,8 @@ PaperSpigot announced that Java 11 will be mandatory from Minecraft 1.17+ versio
 
 In order to simplify management and updates we use : [AdoptOpenJDK](https://adoptopenjdk.net)   
 - ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` : for profiles after v1.16
-- ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` : for profiles before v1.16.1
+- ```/usr/lib/jvm/adoptopenjdk-8-hotspot-jre-amd64/bin/java``` : for profiles Spigot/PaperSpigot before v1.16.1
+- ```/usr/lib/jvm/adoptopenjdk-8-openj9-jre-amd64/bin/java```: for profiles Vanilla before v.1.16.1
 
 [[Tutorial] How to install Adopt OpenJDK JAVA versions on Linux servers?](https://adoptopenjdk.net/installation.html?variant=openjdk8&jvmVariant=hotspot#linux-pkg)
 
