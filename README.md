@@ -24,8 +24,16 @@ Methods to start :
 # ChangeLog
 
 -----
+⚠️ Java change AGAIN (June-2021 Update)
+-----
+
+Mojang decided to unilaterally move from JAVA 11 > JAVA 16 (yup a jump of 5 versions and the use of a no LTS, ...).     
+Since Vanilla 1.17, there is the need to use a new JVM so for now this repo isn't natively compatible with 1.17 (as the 8th of June).
+
+## NOT READY FOR Vanilla 1.17 " YET " !!!!
+
+-----
 📌 JAVA Software changes (March-2021 Update)
-----
 
 In order to simplify management and updates this project now relies on : [AdoptOpenJDK](https://adoptopenjdk.net)   
 - ```/usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java``` : for profiles after v1.16
