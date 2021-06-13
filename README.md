@@ -32,6 +32,8 @@ Since Vanilla 1.17, there is the need to use a new JVM so for now this repo isn'
 
 ## NOT READY FOR Vanilla 1.17 " YET " !!!!
 
+Temporary use of a JAVA NO LTS version : /usr/lib/jvm/adoptopenjdk-16-hotspot-jre-amd64/bin/java for the Vanilla 1.17 profile already available.
+
 -----
 📌 JAVA Software changes (March-2021 Update)
 
