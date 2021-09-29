@@ -21,7 +21,7 @@ Methods to start :
 | `Last`| 1.16.5 | 1.16.2 | 1.16.5 |
 | `First`| 1.4.7 | 1.4.7 | 1.12.2 |
 
-# ChangeLog
+# ChangeLog (All the history [HERE](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/CHANGELOG.md) )
 
 -----
 🆕 New release v0.1-beta-final (End-September 2021)
@@ -40,10 +40,6 @@ Since Vanilla 1.17, there is the need to use a new JVM so for now this repo isn'
 ## NOT READY FOR Vanilla 1.17 " YET " !!!!
 
 Temporary use of a JAVA NO LTS version : /usr/lib/jvm/adoptopenjdk-16-hotspot-jre-amd64/bin/java for the Vanilla 1.17 profile already available.
-
----
-
-ALL THE CHANGES [HERE](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/CHANGELOG.md)
 
 -----
 ⚠️⚠️⚠️ You find a bug? Want to contribute?
