@@ -8,15 +8,19 @@ echo -e "
  |_|  |_|\__,_|_|\__|_|\___|_|  \__,_|_|  \__|          \___/_/   \_\_| \_\  \____\___/|_| |_|_| |_|\__, |
                                                                                                     |___/ "
 echo -e "\033[0;36m ## \033[0;32mLet's start getting all these things baby ! \033[37m"
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-jar.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/my-jar.jar.conf
 chown minecraft:minecraft ./jar/my-jar.jar.conf
 chmod 755 ./jar/my-jar.jar.conf
 
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/my-oldjar.jar.conf
+chown minecraft:minecraft ./jar/my-oldjar.jar.conf
+chmod 755 ./jar/my-oldjar.jar.conf
+
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/hardmodded.jar.conf
 chown minecraft:minecraft ./jar/hardmodded.jar.conf
 chmod 755 ./jar/hardmodded.jar.conf
 
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/templated-modpack.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/templated-modpack.jar.conf
 chown minecraft:minecraft ./jar/templated-modpack.jar.conf
 chmod 755 ./jar/templated-modpack.jar.conf
 
