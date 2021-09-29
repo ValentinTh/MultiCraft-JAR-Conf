@@ -8,6 +8,15 @@ echo -e "
  |_|  |_|\__,_|_|\__|_|\___|_|  \__,_|_|  \__|          \___/_/   \_\_| \_\  \____\___/|_| |_|_| |_|\__, |
                                                                                                     |___/ "
 echo -e "\033[0;36m ## \033[0;32mLet's start getting all these things baby ! \033[37m"
+
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.17.1.jar.conf
+chown minecraft:minecraft ./jar/vanilla-1.17.1.jar.conf
+chmod 755 ./jar/vanilla-1.17.1.jar.conf
+
+wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.17.jar.conf
+chown minecraft:minecraft ./jar/vanilla-1.17.jar.conf
+chmod 755 ./jar/vanilla-1.17.jar.conf
+
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.16.5.jar.conf
 chown minecraft:minecraft ./jar/vanilla-1.16.5.jar.conf
 chmod 755 ./jar/vanilla-1.16.5.jar.conf
