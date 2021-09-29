@@ -12,10 +12,6 @@ wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf
 chown minecraft:minecraft ./jar/my-jar.jar.conf
 chmod 755 ./jar/my-jar.jar.conf
 
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf
-chown minecraft:minecraft ./jar/my-bungee.jar.conf
-chmod 755 ./jar/my-bungee.jar.conf
-
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf
 chown minecraft:minecraft ./jar/hardmodded.jar.conf
 chmod 755 ./jar/hardmodded.jar.conf
