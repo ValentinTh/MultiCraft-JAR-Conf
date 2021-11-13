@@ -13,21 +13,21 @@ Add Files
 🃏 Custom
 -----
 These models are adapted to accept self-upload JAR (server or bungee).
-* [My-Jar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-jar.jar.conf) ⚠️ Made for Java 11
-* [My-Bungee.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf) ⚠️ Made for Java 11
+* [My-Jar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/my-jar.jar.conf) ⚠️ Made for Java 11
+* [My-OldJar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/my-oldjar.jar.conf) ⚠️ Made for Java 11
 
 Special profile for demanding modded servers :
-- [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf) ⚠️ Made for Java 8
+- [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/hardmodded.jar.conf) ⚠️ Made for Java 8
 
 -----
 🕓 Quick add & clean profiles scripts
 -----
 Run theses bash scripts in the "~/multicraft" directory of your host server !
-* [Clean.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/clean.sh)
-* [Custom.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/custom.sh)
-* [Vanilla.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/vanilla.sh) 
-* [Spigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/spigot.sh)
-* [PaperSpigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/paperspigot.sh)
+* [Clean.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/QUICK-INSTALL/scripts/clean.sh)
+* [Custom.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/QUICK-INSTALL/scripts/custom.sh)
+* [Vanilla.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/QUICK-INSTALL/scripts/vanilla.sh) 
+* [Spigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/QUICK-INSTALL/scripts/spigot.sh)
+* [PaperSpigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/QUICK-INSTALL/scripts/paperspigot.sh)
 
 How to :    
 ```cd /path/to/multicraft-folder/```  
