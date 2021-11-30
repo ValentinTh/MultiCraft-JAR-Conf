@@ -18,10 +18,20 @@ Methods to start :
 | Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot |
 | :--------|:----------:|:---------:|:---------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[PaperMC](https://papermc.io)| 
-| `Last`| 1.17.1 | 1.16.2 | 1.16.5 |
+| `Last`| 1.18 | 1.16.2 | 1.16.5 |
 | `First`| 1.4.7 | 1.4.7 | 1.12.2 |
 
 # ChangeLog (All the history [HERE](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/CHANGELOG.md) )
+
+-----
+⚠️ MC 1.18 + Java change AGAIN (November-2021 Update)
+-----
+
+MC 1.17 > 1.17.1 > 1.18 are now using JAVA 17 (from Zulu since AdoptOpenJDK ceased activity and Adoptium is doing nothing to be user friendly)
+
+```/usr/lib/jvm/zulu17-ca-amd64/bin/java```
+
+Vanilla 1.18 is now available too.
 
 -----
 🆕 New release v0.1-beta-final (End-September 2021)
