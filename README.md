@@ -27,12 +27,11 @@ Methods to start :
 
 
 -----
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️ RCE - JAVA VULNERABILITY (December-2021) ⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️ RCE - JAVA VULNERABILITY (December-2021)
 -----
 
-THIS REPO ISN'T FULLY PATCHED YET !
-Please consider to read ISSUES !
-
+THIS REPO ISN'T FULLY PATCHED YET !       
+Please consider to read [[HOW-TO] LOG4J Patch](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/LOG4J-PATCH.md) !
 
 -----
 ⚠️ MC 1.18 + Java change AGAIN (November-2021 Update)
