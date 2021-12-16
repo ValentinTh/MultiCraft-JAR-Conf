@@ -2,7 +2,11 @@
 
 - https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition
 
-In order to fix Vanilla profiles, it should be applied a patching file in the execution command.   
+In order to fix Vanilla profiles, it should be applied a patching file in the execution command.    
+   
+[HERE is the patch folder for vanilla](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/minecraft/log4j-patch/)
+   
+   
 Regarding the other versions JAR changes need to be applied.
 
 -----
