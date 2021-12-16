@@ -18,10 +18,19 @@ Methods to start :
 | Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot |
 | :--------|:----------:|:---------:|:---------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[PaperMC](https://papermc.io)| 
-| `Last`| 1.18 | 1.16.2 | 1.16.5 |
+| `Last`| 1.18.1 | 1.16.2 | 1.16.5 |
 | `First`| 1.4.7 | 1.4.7 | 1.12.2 |
 
 # ChangeLog (All the history [HERE](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/CHANGELOG.md) )
+
+
+-----
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️ RCE - JAVA VULNERABILITY (December-2021) ⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+-----
+
+THIS REPO ISN'T FULLY PATCHED YET !
+Please consider to read ISSUES !
+
 
 -----
 ⚠️ MC 1.18 + Java change AGAIN (November-2021 Update)
