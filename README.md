@@ -9,7 +9,9 @@ Methods to start :
 
 - [[HOW-TO] First Steps](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/QUICK-INTRODUCTION.md)     
 - [[HOW-TO] Panel & languages (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/LANGUAGES.md)    
-- [[HOW-TO] Server profiles (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/PROFILES.md)   
+- [[HOW-TO] Server profiles (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/PROFILES.md)
+
+- [[HOW-TO] LOG4J Patch](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/LOG4J-PATCH.md) 
 
 -----
 🗓 Minecraft versions available
