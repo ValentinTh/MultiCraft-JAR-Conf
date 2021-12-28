@@ -15,8 +15,8 @@ Regarding the other versions JAR changes need to be applied.
 
 | Versions | Vanilla | Spigot | PaperSpigot |
 | :--------|:-------:|:------:|:-----------:| 
-| ✅ | 1.17 > 1.18.1 | none | none |
-| 🔨 | 1.7 > 1.16.5 | 1.7 > 1.18.1 | 1.7 > 1.18.1 |
+| ✅ | 1.7 > 1.18.1 | 1.7 > 1.18.1 | 1.7 > 1.18.1 |
+| 🔨 | none | none | none |
 
 
 
