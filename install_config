@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+# YOU NEED TO MODIFY YOUR INSTALLER-URL
+# FQDN to Repository
+installer_url="https://raw.githubusercontent.com/MarioWi/MultiCraft-JAR-Conf/Testing"
+versions_path="$installer_url/versions.csv"
+# *.jar.conf Files = <installer_url>/<conf_path>/
+conf_path="minecraft"
+# List of Servers exacly like in versions.csv needed for some install functions
+listAPI="vanilla spigot paperspigot custom"
+# Path to jar folder relativ to install.sh 
+jar_path="./jar"
