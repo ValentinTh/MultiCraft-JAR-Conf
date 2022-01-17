@@ -9,7 +9,9 @@ Methods to start :
 
 - [[HOW-TO] First Steps](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/QUICK-INTRODUCTION.md)     
 - [[HOW-TO] Panel & languages (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/LANGUAGES.md)    
-- [[HOW-TO] Server profiles (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/PROFILES.md)   
+- [[HOW-TO] Server profiles (list & install)](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/PROFILES.md)
+
+- [[HOW-TO] LOG4J Patch](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/LOG4J-PATCH.md) 
 
 -----
 🗓 Minecraft versions available
@@ -18,10 +20,28 @@ Methods to start :
 | Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot |
 | :--------|:----------:|:---------:|:---------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[PaperMC](https://papermc.io)| 
-| `Last`| 1.17.1 | 1.16.2 | 1.16.5 |
+| `Last`| 1.18.1 | 1.16.2 | 1.16.5 |
 | `First`| 1.4.7 | 1.4.7 | 1.12.2 |
 
 # ChangeLog (All the history [HERE](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/CHANGELOG.md) )
+
+
+-----
+⚠️⚠️⚠️⚠️ RCE - JAVA VULNERABILITY (December-2021)
+-----
+
+THIS REPO ISN'T FULLY PATCHED YET !       
+Please consider to read [[HOW-TO] LOG4J Patch](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/HOW-TO/LOG4J-PATCH.md) !
+
+-----
+⚠️ MC 1.18 + Java change AGAIN (November-2021 Update)
+-----
+
+MC 1.17 > 1.17.1 > 1.18 are now using JAVA 17 (from Zulu since AdoptOpenJDK ceased activity and Adoptium is doing nothing to be user friendly)
+
+```/usr/lib/jvm/zulu17-ca-amd64/bin/java```
+
+Vanilla 1.18 is now available too.
 
 -----
 🆕 New release v0.1-beta-final (End-September 2021)

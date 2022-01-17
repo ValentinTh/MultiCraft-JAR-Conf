@@ -13,7 +13,7 @@ Add Files
 🃏 Custom
 -----
 These models are adapted to accept self-upload JAR (server or bungee).
-* [My-Jar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/my-jar.jar.conf) ⚠️ Made for Java 11
+* [My-Jar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/my-jar.jar.conf) ⚠️ Made for Java 17
 * [My-OldJar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/my-oldjar.jar.conf) ⚠️ Made for Java 11
 
 Special profile for demanding modded servers :
